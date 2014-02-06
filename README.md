@@ -1,6 +1,12 @@
 Entity Type Manager
 ===================
 
+This branch is no longer supported
+----------------------------------
+
+For most recent versions please use https://github.com/goodahead/entitytype-manager
+
+
 This extension allows you to create and manage custom entity types from Magento admin panel.
 You can define your own attributes for custom entity types, add entities and bind specific
 entity type to Product attributes via source models.
